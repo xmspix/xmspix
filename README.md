@@ -2,7 +2,7 @@
 Welcome to my page!
 I’m Mark Stoler, Fullstack developer.
 
-### Things I code with
+<!-- ### Things I code with -->
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
