@@ -1,6 +1,6 @@
 # Hi!
 Welcome to my page!
-I’m Mark Stoler, Fullstack developer.
+I’m Mark Stoler, a full stack developer.
 
 <!-- ### Things I code with -->
 <p>
